@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm [Chu Đức Tấn Kiệt]! 👋
 
-<!--
-**ChuDucTanKiet/ChuDucTanKiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mathematical Economics student at **National Economics University (NEU)**, passionate about Quantitative Finance and Risk Management.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Building my first Financial Risk Model**
+- 🌱 I’m currently learning: **Python for Finance, Data Analytics, CFA Level 1**
+- 🎯 My goal: To become a **Quantitative Risk Analyst**
+- ⚡ Fun fact: I love translating math formulas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📫 Connect with me
+[Email](mailto:chukiet60neu@gmail.com)
